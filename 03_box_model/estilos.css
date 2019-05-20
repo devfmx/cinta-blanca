@@ -1,0 +1,46 @@
+/* Quitamos el borde por defecto del navegador */
+body {
+  margin: 0;
+}
+
+.caja {
+  border: 2px solid;
+  height: 50px;
+  /* margin: 100px; */
+  /* margin: 50px 100px; */
+  /* margin: 0px 0px 50px 0px; */
+  margin-bottom: 50px;
+}
+
+.caja2 {
+  border: 2px solid red;
+  height: 50px;
+  /* padding: 100px; */
+  /* padding: 50px 100px; */
+  padding: 50px 100px 20px 10px;
+}
+
+.palabra {
+  display: inline-block;
+  border: 2px solid;
+  height: 50px;
+  width: 200px;
+}
+
+.tarjeta {
+
+  height: 250px;
+  width: 600px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow:  4px 5px #888888;
+}
+
+.foto {
+  width: 250px;
+}
+
+.texto {
+  display: inline-block;
+  width: 300px;
+}

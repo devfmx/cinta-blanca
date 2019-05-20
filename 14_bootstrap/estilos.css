@@ -1,0 +1,31 @@
+.navbar-custom {
+  background: #323f47;
+}
+
+.menu-custom {
+
+}
+
+.menu-custom li a {
+  color: white;
+}
+
+.custom-heigth {
+  height: 400px;
+}
+
+.capitulos {
+  border: 2px solid purple;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.capitulos > .card{
+  margin-top: 30px;
+}
+
+.capitulos > .card > img {
+  height: 200px;
+}
+

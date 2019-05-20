@@ -1,0 +1,25 @@
+/*
+Probar conexion entre css y html
+* {
+  background: purple;
+} */
+
+/* selector {
+  propiedad: valor;
+} */
+
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+.img-big {
+  width: 500px;
+  border-radius: 50%;
+}
+
+.img-small {
+  width: 250px;
+  border-radius: 30px;
+}
+
