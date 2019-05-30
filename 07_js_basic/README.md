@@ -28,7 +28,7 @@ Para declarar una variable es poner la palabra `let`, seguido de el signo `=`, s
 var edad = 18;
 ```
 
-Las variables pueden contener valores `string`, `number`, `boolean`, `array`, `obejts`, `function`, entre otros.(https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)
+Las variables pueden contener valores `string`, `number`, `boolean`, `array`, `objects`, `function`, entre otros.(https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)
 
 Las variables de tipo `string` contienen texto, estas son declaradas de la siguinte manera:
 
@@ -42,9 +42,9 @@ var saludo = "Hola :)";
 
 ***¿Que son?***
 
-También conocido como I/O, es la comunicación entre un sistema que procesa información, como una computadora, y el mundo exterior, posiblemente un humano u otro sistema de procesamiento de información. Las entradas (inputs) es la data que recibe el sistema y las salidas (outputs) es la data que sale de éste.
+También conocido como I/O, es la comunicación entre un sistema que procesa información, como una computadora, y el mundo exterior, posiblemente un humano u otro sistema de procesamiento de información. Las entradas (inputs) es la data que recibe el sistema y las salidas (outputs) es la data que sale del contenido.
 
-`alert()` es un ejemplo de **input**. Cuando se ejecuta muestra un pequeño modal con el contedido que nosotros pongamos dentro de los paréntecis.
+`alert()` es un ejemplo de **input**. Cuando se ejecuta muestra un pequeño modal con el contedido que nosotros pongamos dentro de los paréntesis.
 
 `prompt()` es un ejemplo de **input**. Cuando se ejecuta se muestra un cuadro de diálogo donde el usuario puede escribir una línea de texto.
 
@@ -62,7 +62,7 @@ Como desarrolladores una de las herramientas más importantes es la consola, est
 ### Operadores Aritméticos ###
 
 Los operadores Aritméticos toman valores numéricos (ya sean literales o variables) como sus operandos y retornan un valor numérico único. Los operadores aritméticos estándar son adición o suma `( + )`, sustracción o resta `( - )`, multiplicación `( * )` , y división `( / )`.
-Para comprar dos elementos se utilizan tres iguales `(===)`
+Para comparar dos elementos se utilizan tres iguales `(===)`
 
 ***Suma***
 

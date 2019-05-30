@@ -20,7 +20,7 @@ function resta(a, b, c) {
 }
  resta (15, 8, 2)
 ```
-Los parametros que estamos pasando a nuestra funcion son `a, b, c` , estamos diciendo que a,b ,c se van a restar y lo guardamos en una variable llamada `res` y despues nos mostrara en la consola `res`.
+Los parametros que estamos pasando a nuestra función son `a, b, c` , estamos diciendo que a,b ,c se van a restar y lo guardamos en una variable llamada `res` y despues nos mostrara en la consola `res`.
 
 Despues estamos llamando a la funcion resta, con 3 numeros diferentes, estos numeros son los paramentros que le estamos pasando a nuestra fumcion, los numeros `15, 8 , 2` son los numeros que vamos a restar en nuestra funcio.
 

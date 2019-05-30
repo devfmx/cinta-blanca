@@ -4,7 +4,7 @@
 
 ***¿Qué es?***
 
-La declaracion `if` para especificar un bloque de código JavaScript que se ejecutará si una condición es verdadera.
+La declaracion `if` se utiliza para especificar un bloque de código JavaScript que se ejecutará si una condición es verdadera.
 
 La forma correcta de declarar un `if` es :
 
@@ -16,7 +16,7 @@ if( condicion ){
     paso 2
 }
 ```
-En resumen, si se comple condicion, se ejecutara el pao 1, sino pasa al `else` y se ejucara el paso 2.
+En resumen, si se `cumple` la condición, se ejecuta el paso 1, de lo `contrario`, se pasa al else y se ejecuta* el paso 2.
 
 Ejemplo:
 
