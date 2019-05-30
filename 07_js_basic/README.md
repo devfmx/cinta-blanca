@@ -25,7 +25,7 @@ Las variables están formadas por un espacio en memoria y un nombre que está as
 Para declarar una variable es poner la palabra `let`, seguido de el signo `=`, seguido del valor que deseas agregar.
 
 ```javascript
-let edad = 18;
+var edad = 18;
 ```
 
 Las variables pueden contener valores `string`, `number`, `boolean`, `array`, `obejts`, `function`, entre otros.(https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)
@@ -35,7 +35,7 @@ Las variables de tipo `string` contienen texto, estas son declaradas de la sigui
 -> El texto que deseas guardar en la variable va entre comillas dobles o comillas simples ( " ", '' )
 
 ```javascript
-let saludo = "Hola :)";
+var saludo = "Hola :)";
 
 ```
 ### Inputs y Outputs ###
@@ -50,13 +50,13 @@ También conocido como I/O, es la comunicación entre un sistema que procesa inf
 
 `console.log()` es un ejemplo de **output**. Imprime lo que se le pase entre paréntesis en algún dispositivo de salida de texto. En los navegadores la salida queda en la consola de JavaScript.
 
-La consola no solamente muestra varibales, tambien podemos hacer opeaciones:
+La consola no solamente muestra varibales, tambien podemos hacer operaciones:
 
 `console.log(5+5)`
 
 ***La consola***
 
-Como desarrolladores una de las herramientas más importantes es la consola, esta herramient
+Como desarrolladores una de las herramientas más importantes es la consola, esta herramienta, nos permite ver que es lo que esta panso en nuestro codigo JS.
 
 
 ### Operadores Aritméticos ###
@@ -66,7 +66,7 @@ Para comprar dos elementos se utilizan tres iguales `(===)`
 
 ***Suma***
 
-La operación suma se lleva acabo mediante la suma de elementos pueden ser varibales, numeros o texto(en el caso de sumar texto se le conoce como concatenar)
+La operación suma se lleva acabo mediante la suma de elementos pueden ser variables, numeros o texto(en el caso de sumar texto se le conoce como concatenar)
 
 Ejemplo:
 

@@ -8,19 +8,19 @@ Los objetos y arreglos son variables especiales ya que pueden tener varios eleme
 Las variables de tipo arreglo de definen de la siguiente manera...
 
 ```javascript
-let array = []  
+var array = []  
 ```
 
 Los arreglos pueden contener mas de un valor, estos son divididos por comas.
 
 ```javascript
-let animals = ['perrito', 'gatito', 'pajarito']
-let numbers = [10, 50 , 300] 
+var animals = ['perrito', 'gatito', 'pajarito']
+var numbers = [10, 50 , 300] 
 ```
 Los arreglos tienen posiciones empezando el la posicion `0`
 
 ```javascript
-let animals = ['perrito', 'gatito', 'pajarito']
+var animals = ['perrito', 'gatito', 'pajarito']
                     0       1           2 
 ```
 En la consola podemos acceder a los elementos del arreglo:
@@ -33,7 +33,7 @@ Para agregar otro elemento a nuestro arreglo solamente decimos que valor es, y e
 
 ```javascript
   
-  let animals = ['perrito', 'gatito', 'pajarito']
+  var animals = ['perrito', 'gatito', 'pajarito']
   
   'ranita' = animals[3]
   console.log(animals)
@@ -43,7 +43,7 @@ Los objetos se definen de la siguiente manera:
 
 
 ```javascript
-  let persona = {
+  var persona = {
       nombre : "Pepito",
       edad : "22",
       trabajo : "Developer"

@@ -21,7 +21,7 @@ En resumen, si se comple condicion, se ejecutara el pao 1, sino pasa al `else` y
 Ejemplo:
 
 ```javascript
-let edad= 15
+var edad= 15
 
 if( edad < 18 ){
     "Eres menor de edad D:"
@@ -34,8 +34,8 @@ Ejemplo:
 
 ```javascript
 
-let dia = 'soleado'
-let hora = '5:00' 
+var dia = 'soleado'
+var hora = '5:00' 
 if( dia === 'nublado' ){
     'No salgas'
 }else{

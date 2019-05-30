@@ -11,12 +11,12 @@ Un ciclo for consiste en tres expresiones obligatorias, encerradas en paréntesi
 
 
 ```javascript
-for(let i = 0; i <= 100; i = i + 1){
+for(var i = 0; i <= 100; i = i + 1){
     console.log(i)
 }
 
 //Una abreviacion para la expresion:
-//      i = i+1
+//      i = i+1mb
 //Se puede poner de la siguinte manera : i++
 
 for(inicio; final; secuencia){
