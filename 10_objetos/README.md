@@ -35,7 +35,7 @@ Para agregar otro elemento a nuestro arreglo solamente decimos que valor es, y e
   
   var animals = ['perrito', 'gatito', 'pajarito']
   
-  'ranita' = animals[3]
+  animals.push('cocodrilo')
   console.log(animals)
 ```
 
