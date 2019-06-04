@@ -73,14 +73,14 @@ Ejemplo:
 ```javascript
 2 + 2 =
 
-let num1 = 10
-let num2 = 20
+var num1 = 10
+var num2 = 20
 
 num1 + num2
 
-let saludo = "Hola!!"
+var saludo = "Hola!!"
 
-let nombre = "Fulanito"
+var nombre = "Fulanito"
 
 console.log(num1 + num2)
 console.log(saludo + nombre)
