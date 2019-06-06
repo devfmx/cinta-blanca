@@ -20,9 +20,9 @@ La etiqueta **script** nos da la propieddad **src=""**, en esta propiedad pondre
 
 ¿Que son las variables?
 
-Las variables están formadas por un espacio en memoria y un nombre que está asociado a ese espacio. Las variables se definen con la palabra reservada `let`.
+Las variables están formadas por un espacio en memoria y un nombre que está asociado a ese espacio. Las variables se definen con la palabra reservada `var`.
 
-Para declarar una variable es poner la palabra `let`, seguido de el signo `=`, seguido del valor que deseas agregar.
+Para declarar una variable es poner la palabra `var`, seguido de el signo `=`, seguido del valor que deseas agregar.
 
 ```javascript
 var edad = 18;
