@@ -69,3 +69,23 @@
 .blanco2 .rojo {
   width: 94%;
 }
+
+.costa-rica {
+  height: 400px;
+  width: 600px;
+  border: 2px solid;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.azul-costa-rica {
+  background: #002B7F;
+  height: 66.66px;
+}
+
+.rojo-costa-rica {
+  background: #CE1126;
+  height: 133.32px;
+}
