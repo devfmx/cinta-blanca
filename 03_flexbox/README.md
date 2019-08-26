@@ -59,7 +59,7 @@ css
 
 .container {
   display: flex; /* or inline-flex */
-  flex-direction: center;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
