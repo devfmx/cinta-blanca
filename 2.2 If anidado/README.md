@@ -1,5 +1,3 @@
-
-
 #Condicionales If#
 
 ***¿Qué es?***
