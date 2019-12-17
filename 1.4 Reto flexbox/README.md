@@ -1,5 +1,5 @@
 
-# Flexbox challenge
+# Reto flexbox #
 
 Utilizando los conceptos aprendidos de **Flexbox** haz la bandera de Noruega.
 
