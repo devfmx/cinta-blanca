@@ -1,4 +1,3 @@
-
 # Ciclo For #
 
 ***¿Qué es?***
@@ -11,20 +10,22 @@ Un ciclo for consiste en tres expresiones obligatorias, encerradas en paréntesi
 
 
 ```javascript
-for(var i = 0; i <= 100; i = i + 1){
+for (var i = 0; i <= 100; i = i + 1) {
     console.log(i)
 }
 
-//Una abreviacion para la expresion:
-//      i = i+1mb
-//Se puede poner de la siguinte manera : i++
+// Una abreviación para la expresión:
+//      i = i+1 
+// Se puede poner de la siguiente manera: i++
 
-for(inicio; final; secuencia){
-    bloque de codigo que se ejecutara
+for (inicio; final; secuencia) {
+    bloque de código que se ejecutara
 }
 ```
-En este ejemplo de estamos declarando la varible `i`, `i` empieza en 0 , es menor e igual a 100 y la secuencia es de 1 + .
+En este ejemplo de estamos declarando la variable `i`, `i` empieza en 0 , es menor e igual a 100 y la secuencia es de 1 + .
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
+
 https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/for
+
