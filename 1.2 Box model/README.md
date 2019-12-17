@@ -34,7 +34,7 @@ Son selectores con nombres personalizados precedidos por un punto `.clase`. Sirv
 ````
 
 ***Selectores de Id***
-Selectores únicos, solo puede haber uno con el mismo nombre en un documento html. Están precedidas por el simbolo `#``
+Selectores únicos, solo puede haber uno con el mismo nombre en un documento html. Están precedidas por el símbolos `#``
 
 ```css
 #nombre {
@@ -45,7 +45,7 @@ Selectores únicos, solo puede haber uno con el mismo nombre en un documento htm
 
 ### Estilos ###
 
-Los estilos se colocan en el bbloque de declaraciones entre llaves `{` `}`, están compuestas por una propiedad y un valor, separados por dos puntos `:`. Cada declaración se finaliza con `;` antes de colocar otra más.
+Los estilos se colocan en el bloque de declaraciones entre llaves `{` `}`, están compuestas por una propiedad y un valor, separados por dos puntos `:`. Cada declaración se finaliza con `;` antes de colocar otra más.
 
 ```css
 .selector {
@@ -55,7 +55,7 @@ Los estilos se colocan en el bbloque de declaraciones entre llaves `{` `}`, est�
     border: 1px solid red;
 }
 ```
-Hay una gran variedad de estilos para modificar cada aspecto visual psoible.
+Hay una gran variedad de estilos para modificar cada aspecto visual posible.
 
 
 ### Box model ###
@@ -89,7 +89,8 @@ La distancia que hay entre el borde del elemento y el propio contenido del eleme
 ```
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
+
 https://developer.mozilla.org/es/docs/Web/CSS
 https://www.w3schools.com/css/css_intro.asp
 https://www.w3schools.com/css/css_boxmodel.asp
